@@ -10,7 +10,9 @@ This project proposes a landmark-based business discovery system that enables us
 **Project Objectives**
 
 **General Objective**
+
 To design and implement a landmark-based business discovery system that allows users in East Africa to locate businesses using commonly known landmarks rather than formal street addresses.
+
 
 **Specific Objectives**
 
@@ -24,7 +26,7 @@ To provide an administrative interface for validating businesses and landmarks
 
 To improve the visibility of informal and small businesses within local communities
 
-System Description
+**System Description**
 
 The landmark-based business discovery system is a web-based platform designed to support both formal and informal businesses. The system integrates mapping technology to visually display landmarks and nearby businesses.
 
